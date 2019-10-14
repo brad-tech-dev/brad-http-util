@@ -1,0 +1,7 @@
+# compile folder
+target
+
+# intellij idea ide config folders/files
+.idea
+*.iml
+
